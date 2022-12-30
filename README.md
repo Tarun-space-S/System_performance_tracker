@@ -31,9 +31,11 @@ use se;
 create table users(uname varchar(20),pass varchar(20));
 ```
 
+**Keep all the provided files in the same folder .**
+
 ## Running 
 Recommended to use VS Code . Execute the file LOGIN_PAGE.py.
-This pops up the login page.
+This pops up the login page. Keep all the assest file in the same folder.
 
 ***connect to database by clicking connect.***
 
