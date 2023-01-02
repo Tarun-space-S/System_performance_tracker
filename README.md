@@ -1,6 +1,7 @@
 # System_performance_tracker
+# HeatSink(the Application Name)
 System performance tracker using PyQt5 for the UI and python source code. SQL Database is used and is compatible with Linux and Microsoft OS.
-# SYSTEM PERFORMANCE TRACKER
+
 It is a Python based application to track the system functionalities in Real-Time.
 I have used PyQt5 widgets and Qtdesigner produced .ui files for the User Interface. 
 ![image](https://user-images.githubusercontent.com/89335295/210090582-3357db62-4f5f-4c04-973d-bbf1d5ec0795.png)
