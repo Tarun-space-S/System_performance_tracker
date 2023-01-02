@@ -101,6 +101,6 @@ You can setup a new user id and password. Click login to login and the page redi
 
 ## Battery
 **battery real time specifications**
-![image](https://user-images.githubusercontent.com/89335295/210218317-1e77c973-720d-4038-845f-a6066d6c5e7d.png)
+![image](https://user-images.githubusercontent.com/89335295/210219388-150bb8ec-159c-46fa-b348-ccb8f138eb47.png)
 
 # THANK YOU
